@@ -1,0 +1,15 @@
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.exe
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.deps.json
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.runtimeconfig.json
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.dll
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.pdb
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfo.cs
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.dll
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\refint\LinqWithSets.dll
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.pdb
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.genruntimeconfig.cache
+C:\repos\C#\C#BookCode\cs10dotnet6\vs4win\Chapter11\LinqWithSets\obj\Debug\net6.0\ref\LinqWithSets.dll
